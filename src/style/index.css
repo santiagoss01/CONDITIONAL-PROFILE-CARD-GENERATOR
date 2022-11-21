@@ -4,9 +4,9 @@
 }
 .filters li {
   display: inline-block;
-  justify-content: space-between;
+  justify-content: space-evenly;
   max-width: 80px;
-  padding: 26px;
+  padding: 46px;
 }
 .filters li label {
   display: block;
